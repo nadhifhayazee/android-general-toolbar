@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:layout_constraintTop_toTopOf="parent"
-        app:toolbarBackground="@color/design_default_color_error"
+        app:toolbarBackground="@color/black"
         app:toolbarTitleColor="@color/white"
         app:toolbarTitle="General Toolbar"
         app:toolbarBackIcon="@android:color/transparent"/>
