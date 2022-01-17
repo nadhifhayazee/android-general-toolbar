@@ -26,7 +26,6 @@
         android:gravity="center"
         android:text="Title"
         android:textColor="#000"
-        android:visibility=""
         android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
